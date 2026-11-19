@@ -6,7 +6,7 @@ Enjoy!
 
 If you like this repo, be sure to ⭐ it.
 
-|  #  | Project | Live Demo | tutorial
+|  #  | Project | Live Demo |
 | --- | ------------------------------------------------ | --------------------  |
 | 01  | [3d social media icon](https://github.com/smthari/Frontend-Projects/tree/master/3d%20social%20media%20icons)| [Live Demo](https://3d-social-media-icons.netlify.app/)| 
 | 02  | [Sticky Navbar](https://github.com/smthari/Frontend-Projects/tree/master/Responsive%20sticky%20navbar)| [Live Demo](https://responsive-sticky-navbar.netlify.app/)|
